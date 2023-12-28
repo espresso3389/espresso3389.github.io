@@ -69871,7 +69871,7 @@ s.fy$=$.ae()
 s.fx$=0
 this.d.l()
 this.aw()},
-N(a){var s=this,r=null,q=A.atj(A.lf("assets/hello.pdf"),s.f,new A.Go(8,!1)),p=s.r?2:-80,o=A.af6(8),n=t.E
+N(a){var s=this,r=null,q=A.atj(A.lf("assets/assets/hello.pdf"),s.f,new A.Go(8,!1)),p=s.r?2:-80,o=A.af6(8),n=t.E
 return new A.vh(new A.wA(new A.ta(B.MM,new A.Nx(r,r,1/0,56),r),A.ih(B.bw,A.b([q,A.af3(A.fJ(r,A.akM(A.b([new A.Ef(1,B.kO,new A.xC(s.e,s.d,B.Jj,B.IK,B.IL,!0,r),r),A.XM(r,B.Bo,new A.a9d(),r,r),A.XM(r,B.Bp,new A.a9e(),r,r)],n),B.d0,B.i1),B.w,r,new A.cK(B.i,r,r,o,B.li,r,B.aL),60,r,B.kz,300),B.aj,B.b3,r,2,p)],n),B.X,B.be),A.afe(A.b([A.up(B.Bl,!1,new A.a9f(s)),A.up(B.Bq,!1,new A.a9g(s)),A.up(B.Bn,!1,new A.a9h(s)),A.up(B.Bm,!1,new A.a9i(s)),A.up(B.kZ,!1,new A.a9j(s))],n),B.d0,B.ER,B.i1),r),r)}}
 A.a9d.prototype={
 $0(){},
