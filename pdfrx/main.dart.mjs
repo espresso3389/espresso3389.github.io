@@ -464,7 +464,7 @@ class CompiledApp {
       _1613: x0 => globalThis.pdfjsLib.getDocument(x0),
       _1624: x0 => globalThis.pdfjsLib.GlobalWorkerOptions.workerSrc = x0,
       _1625: x0 => x0.promise,
-      _1627: (x0,x1,x2,x3,x4,x5) => ({data: x0,password: x1,cMapUrl: x2,cMapPacked: x3,useSystemFonts: x4,standardFontDataUrl: x5}),
+      _1626: (x0,x1,x2,x3,x4,x5,x6,x7) => ({url: x0,httpHeaders: x1,withCredentials: x2,password: x3,cMapUrl: x4,cMapPacked: x5,useSystemFonts: x6,standardFontDataUrl: x7}),
       _1628: (x0,x1) => x0.getPage(x1),
       _1629: x0 => x0.getPermissions(),
       _1630: x0 => x0.numPages,
